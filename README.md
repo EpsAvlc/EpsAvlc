@@ -1,7 +1,7 @@
 ### About me
 **Ming Cao**
 
-- A student of School of Mechanical Engineering and Automation in **Harbin Institute of Technology(Shenzhen)** and a member of [NRSL group](http://nrs-lab.com), led by associate professor Haoyao Chen.
+- A student of School of Mechanical Engineering and Automation in **Harbin Institute of Technology(Shenzhen)** and a member of [NRSL group](http://nrs-lab.com), led by professor Haoyao Chen.
 - Currently studying in autonomous exploration of mobile robots.
 
 ### Publication
