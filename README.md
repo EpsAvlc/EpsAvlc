@@ -4,7 +4,7 @@
 - A student of School of Mechanical Engineering and Automation in **Harbin Institute of Technology(Shenzhen)** and a member of [NRSL group](http://nrs-lab.com), led by professor Haoyao Chen.
 - Currently studying in autonomous exploration of mobile robots.
 
-### :bluebook: Recent blogs
+### :blue_book: Recent blogs
 <!-- blog starts -->
 * <a href='https://epsavlc.github.io//2020/12/07/good_articles.html' target='_blank'>《一文读懂系列》汇总</a> - 2020-12-07
 * <a href='https://epsavlc.github.io//2020/11/30/more_active.html' target='_blank'>更多关于主动重建的文章</a> - 2020-11-30
