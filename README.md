@@ -13,5 +13,5 @@
 * <a href='https://epsavlc.github.io//2020/11/05/Octomap.html' target='_blank'>八叉树地图的构建</a> - 2020-11-05
 <!-- blog ends -->
 
-### :watermelon: github statistics
+### :watermelon: Github statistics
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=EpsAvlc&show_icons=true&theme=gruvbox)
