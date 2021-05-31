@@ -6,7 +6,7 @@
 
 ### :blue_book: Recent blogs
 <!-- blog starts -->
-* <a href='https://epsavlc.github.io//2021/02/27/tsdf.html' target='_blank'>TSDF 以及基于TSDF的主动重建</a> - 2021-02-27
+* <a href='https://epsavlc.github.io//2021/05/30/map_representation.html' target='_blank'>机器人常用的三维地图表达形式</a> - 2021-05-30
 * <a href='https://epsavlc.github.io//2021/02/25/octomap_revisit.html' target='_blank'>再谈octomap——一些细节</a> - 2021-02-25
 * <a href='https://epsavlc.github.io//2020/12/16/cpp_reflection.html' target='_blank'>c++的反射</a> - 2020-12-16
 * <a href='https://epsavlc.github.io//2020/12/07/good_articles.html' target='_blank'>《一文读懂系列》汇总</a> - 2020-12-07
