@@ -6,11 +6,11 @@
 
 ### :blue_book: Recent blogs
 <!-- blog starts -->
+* <a href='https://epsavlc.github.io//2021/07/27/icp_covariance.html' target='_blank'>如何计算ICP得到的位姿不确定性（covariance）?</a> - 2021-07-27
 * <a href='https://epsavlc.github.io//2021/07/24/cuda_programming.html' target='_blank'>如何用CUDA加速并行你的程序（以八叉树光线投射为例）</a> - 2021-07-24
 * <a href='https://epsavlc.github.io//2021/06/10/msckf_with_a_prior_map.html' target='_blank'>具有先验地图约束的MSCKF</a> - 2021-06-10
 * <a href='https://epsavlc.github.io//2021/06/08/LIC_fusion.html' target='_blank'>LIC-fusion 详细推导</a> - 2021-06-08
 * <a href='https://epsavlc.github.io//2021/05/30/map_representation.html' target='_blank'>机器人常用的三维地图表达形式</a> - 2021-05-30
-* <a href='https://epsavlc.github.io//2021/02/25/octomap_revisit.html' target='_blank'>再谈octomap——一些细节</a> - 2021-02-25
 <!-- blog ends -->
 
 ### :watermelon: Github statistics
