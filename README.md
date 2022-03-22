@@ -1,7 +1,7 @@
 ### :wave: About me
 **Ming Cao**
 
-- A research Engineer in [Momenta](https://www.momenta.cn/en/)
+- A research Engineer in [Momenta](https://www.momenta.cn/en/).
 - Currently studying in autonomous parking.
  
 ### :blue_book: Recent blogs
