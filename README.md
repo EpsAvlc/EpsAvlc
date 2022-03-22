@@ -1,9 +1,9 @@
 ### :wave: About me
 **Ming Cao**
 
-- A student of School of Mechanical Engineering and Automation in **Harbin Institute of Technology(Shenzhen)** and a member of [NRSL group](http://nrs-lab.com), led by professor Haoyao Chen.
-- Currently studying in autonomous exploration of mobile robots.
-
+- A research Engineer in [Momenta](https://www.momenta.cn/en/)
+- Currently studying in autonomous parking.
+ 
 ### :blue_book: Recent blogs
 <!-- blog starts -->
 * <a href='https://epsavlc.github.io//2021/11/11/autodiff.html' target='_blank'>Ceres的数值求导与自动求导的原理</a> - 2021-11-11
