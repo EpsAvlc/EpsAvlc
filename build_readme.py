@@ -6,7 +6,7 @@ import re
 root = pathlib.Path(__file__).parent.resolve()
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://epsavlc.github.io/feed.xml")["entries"]
+    entries = feedparser.parse("https://feed.cnblogs.com/blog/u/803681/rss/")["entries"]
     return [
         {
             "title": entry["title"],
