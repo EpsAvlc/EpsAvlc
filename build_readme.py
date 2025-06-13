@@ -9,7 +9,7 @@ def fetch_blog_entries():
     entries = feedparser.parse("https://feed.cnblogs.com/blog/u/803681/rss/")["entries"]
     return [
         {
-            "title": entry["title"],
+            "title": entry["title"].split(" - ")[0],
             "url": entry["link"].split("#")[0],
             "published": entry["published"].split("T")[0],
         }
